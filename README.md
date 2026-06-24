@@ -1,14 +1,14 @@
-PRCC-BENCH
+##PRCC-BENCH
 
 "PRCC-BENCH" (https://jibay.ir/uploads/news/2c7b341670a38bf338f35bd224660958.png)
 
 Persian Reasoning, Comprehension, Conversation Benchmark
 
-A benchmark developed by Jibay Ai for evaluating Persian language understanding and execution capabilities in modern AI systems.
+A benchmark developed by `Jibay Ai` for evaluating Persian language understanding and execution capabilities in modern AI systems.
 
 ---
 
-About
+##About
 
 PRCC-BENCH is a Persian benchmark designed to evaluate how effectively language models understand, reason, analyze, follow instructions, answer questions, and extract information.
 
@@ -25,7 +25,7 @@ This benchmark is designed to simulate practical and realistic language tasks.
 
 ---
 
-Benchmark Information
+##Benchmark Information
 
 Property| Value
 Benchmark Name| PRCC-BENCH
@@ -40,7 +40,7 @@ Evaluation| Exact + Semantic
 
 ---
 
-Evaluation Categories
+##Evaluation Categories
 
 1. Comprehension
 
@@ -154,7 +154,7 @@ Abilities measured:
 
 ---
 
-Scoring System
+##Scoring System
 
 Result| Score
 Correct| +5
